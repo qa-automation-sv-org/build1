@@ -10,5 +10,5 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: sv-go-test-repo
-          artifact-id: 4271e62b-efce-45c2-9d06-d85c81e84da9
+          artifact-id: debaaf01-65fc-436b-af21-438e927c6d65
           target-environment: aspm_qa
